@@ -66,5 +66,5 @@ while True:
         print("程序已退出！")
         break
     else:
-        print("输入错误，程序退出！")
+        print("输入错误，程序已退出！")
         break
