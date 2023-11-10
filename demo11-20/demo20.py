@@ -1,0 +1,7 @@
+arr = ('周杰伦', 11, ['football', 'music'])
+print(f"年龄所在下标位置：{arr.index(11)}")
+print(f"学生的姓名：{arr[0]}")
+arr[2].pop(0)
+print(f"删除football后元组为：{arr}")
+arr[2].append('coding')
+print(f"添加coding后元组为：{arr}")
