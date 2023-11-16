@@ -8,3 +8,4 @@ print(result2)
 
 result3 = my_str.split("，")[1].replace("来","")[::-1]
 print(result3)
+print("game over")
